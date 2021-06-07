@@ -1,3 +1,3 @@
 # CURSO DEFINITIVO DE HTML Y CSS
-Apuntes del curso de ![](https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" alt="drawing" width="200"/>
+
+<img src="https://assets.hakeema.com/matterfund/unit/59db177558756338de46cb42-9de977.png" alt="drawing" width="700"/>
